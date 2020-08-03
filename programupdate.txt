@@ -1,11 +1,15 @@
+CCTV-1蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 无线新闻台1,http://www.liveviptv.xyz/tv/tvb.php
 无线新闻台2,http://danielwu.gz01.bdysite.com/iptv/?id=wxxw
 无线新闻台3,https://www.ootori.xyz/tv/tvb.php?id=inews
 无线新闻台4,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+有线新闻台,http://liveicm3.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 无线财经,https://www.ootori.xyz/tv/tvb.php?id=finance
 无线财经2,http://suo.im/6cQBAw
 新闻现场直播,https://www.ootori.xyz/tv/tvb.php?id=newsevent1
-有线新闻台,http://liveicm3.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
 汕头一套HD,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=shantouyitaogaoqing_4500
 汕头二套HD,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=shantouertaogaoqing_4500
 汕头三套HD,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=shantousantaogaoqing_4500
