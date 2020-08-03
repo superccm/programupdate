@@ -5,7 +5,7 @@
 无线财经,https://www.ootori.xyz/tv/tvb.php?id=finance
 无线财经2,http://suo.im/6cQBAw
 新闻现场直播,https://www.ootori.xyz/tv/tvb.php?id=newsevent1
-有线新闻台,http://liveicm2.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+有线新闻台,http://liveicm3.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
 汕头一套HD,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=shantouyitaogaoqing_4500
 汕头二套HD,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=shantouertaogaoqing_4500
 汕头三套HD,http://web1903271404578.bj01.bdysite.com/0-1-75/uhd.php?id=shantousantaogaoqing_4500
