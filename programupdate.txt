@@ -1,7 +1,7 @@
-无线新闻台1,http://nettvplus.live/hls/tvb.php?id=1
+无线新闻台1,http://www.liveviptv.xyz/tv/tvb.php
 无线新闻台2,http://danielwu.gz01.bdysite.com/iptv/?id=wxxw
 无线新闻台3,https://www.ootori.xyz/tv/tvb.php?id=inews
-无线新闻台4,http://suo.im/5BfAGr
+无线新闻台4,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 无线财经,https://www.ootori.xyz/tv/tvb.php?id=finance
 无线财经2,http://suo.im/6cQBAw
 新闻现场直播,https://www.ootori.xyz/tv/tvb.php?id=newsevent1
