@@ -1,0 +1,8 @@
+第01集,https://yuledy.helanzuida.com/20200810/8803_df008037/index.m3u8
+第02集,https://yuledy.helanzuida.com/20200810/8808_b0fc15c5/index.m3u8
+第03集,https://yuledy.helanzuida.com/20200811/8846_b0093fb6/index.m3u8
+第04集,https://douban.donghongzuida.com/20200811/7156_ed7e81e5/index.m3u8
+第05集,https://douban.donghongzuida.com/20200812/7250_95346dc0/index.m3u8
+第06集,https://yuledy.helanzuida.com/20200812/8888_84a19003/index.m3u8
+第07集,https://yuledy.helanzuida.com/20200813/8929_dd87993f/index.m3u8
+第08集,https://yuledy.helanzuida.com/20200813/8930_a02c952a/index.m3u8
