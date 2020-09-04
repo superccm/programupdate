@@ -1,4 +1,0 @@
-20200731期上,https://yuledy.helanzuida.com/20200731/8269_343e3e66/index.m3u8
-20200731期下,https://yuledy.helanzuida.com/20200731/8268_fc35309a/index.m3u8
-20200807期上,https://yuledy.helanzuida.com/20200807/8622_b89c6131/index.m3u8
-20200807期下,https://yuledy.helanzuida.com/20200807/8621_ac0bd73f/index.m3u8
