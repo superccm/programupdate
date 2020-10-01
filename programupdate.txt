@@ -1,4 +1,4 @@
-CCTV-1蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+CCTV-1蓝光,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 无线新闻台1(一天),http://www.liveviptv.xyz/tv/tvb.php
 无线新闻台2,http://tv.sason.xyz/proxy/tvb.php?id=xw
 无线新闻台3,https://www.ootori.xyz/tv/tvb.php?id=inews
