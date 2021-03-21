@@ -1,7 +1,7 @@
 CCTV-1蓝光,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv1_2/index.m3u8
+无线新闻台3(高清一天),http://news.tvb.com/live/inews?is_hd
 无线新闻台1(一天),http://www.liveviptv.xyz/tv/tvb.php
 无线新闻台2,http://tv.sason.xyz/proxy/tvb.php?id=xw
-无线新闻台3(高清一天),http://news.tvb.com/live/inews?is_hd
 无线新闻台4,http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 汕头1套,http://wx.tt1008.top/gd.php?id=shantouyitaogaoqing_4500
 汕头2套,http://wx.tt1008.top/gd.php?id=shantouertaogaoqing_4500
