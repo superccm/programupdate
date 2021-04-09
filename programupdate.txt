@@ -1,4 +1,7 @@
 无线新闻台1,https://www.nettvplus.live/hls/tvb.php?id=1
 无线新闻台3(高清一天),http://news.tvb.com/live/inews?is_hd
 CCTV-1蓝光,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv1_2/index.m3u8
-汕头电视台新闻综合频道,http://tv.cutv.com/
+汕头电视台新闻综合频道(一天),http://tv.cutv.com/
+汕头电视台新闻资讯广播(一天),http://tv.cutv.com/
+汕头电视台音乐广播(一天),http://tv.cutv.com/
+汕头电视台交通之声(一天),http://tv.cutv.com/
